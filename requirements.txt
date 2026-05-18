@@ -1,0 +1,3 @@
+# BookPulse - Zero External Dependencies
+# This project uses only Python standard library modules.
+# No pip install required beyond Python 3.8+.
